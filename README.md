@@ -8,3 +8,5 @@ By default, the CSV file containing the data will be created in the same directo
 
 Also added examples of result:
 regular csv file and excel file with pivot tables. 
+
+![image](https://github.com/poxeron/Sunwings_deals/assets/55221870/c6e42bb5-3fb6-4258-8f3c-f140718a75ee)
