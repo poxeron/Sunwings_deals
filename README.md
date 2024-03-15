@@ -1,5 +1,10 @@
-This script will be useful for travelers who are not afraid to use Sunwing as their provider.
-main script locate in "Sunwing folder" 
-by default csv file with data will be created in the same folder there is script located or exe file executed. 
+This script will prove useful for adventurers who are ready to choose Sunwing as their service provider.
 
-Enjoy!
+The main script "parsing_Sunwing_json.py" parses a direct URL with json data and is located in the "Sunwing" folder.
+the script using BS4 and DOM parsing is not finished yet and I'm not sure if I need to complete it since I already have a working version.
+Let's get a look.
+
+By default, the CSV file containing the data will be created in the same directory where the script is located or the executable is run.
+
+Also added examples of result:
+regular csv file and excel file with pivot tables. 
