@@ -1,9 +1,0 @@
-{
-    "python.pythonPath": "python",
-    // "python.venvFolders" : <Your venv folders>
-    // "python.venvPath" : <Your Python path>
-    "editor.codeActionsOnSave": {
-
-    },
-    "python.analysis.autoImportCompletions": true
-}
