@@ -65,5 +65,5 @@ if data != None:
 else:
     print("Data is empty. Please check your internet connection")
 
-export_to_csv(new_json,  "./Sunwing_deals_json.csv")
+export_to_csv(new_json,  "./Sunwing_deals.csv")
         
