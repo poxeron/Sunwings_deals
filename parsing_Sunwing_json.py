@@ -1,7 +1,4 @@
 import requests
-from pprint import pprint
-from jsonpath_ng import jsonpath, parse
-import math
 import pandas as pd
 import urllib.request, json 
 
